@@ -19,3 +19,5 @@ export class PokemonCardComponent {
     return stat ? stat.base_stat : 0;
   }
 }
+
+// lop

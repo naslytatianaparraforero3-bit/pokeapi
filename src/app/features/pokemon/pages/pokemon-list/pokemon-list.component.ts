@@ -47,5 +47,5 @@ export class PokemonListComponent implements OnInit {
       this.offset -= this.limit;
       this.loadPokemons();
     }
-  }
+  } // lo
 }
